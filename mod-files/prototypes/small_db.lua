@@ -15,7 +15,7 @@ small_db.minable 						= {mining_time = 0.5,result = "ued-small-db"}
 small_db.draw_copper_wires				= false
 small_db.check_collision_with_entities 	= true
 small_db.supply_area_distance 			= 5.5
-small_db.maximum_wire_distance 			= 9
+small_db.maximum_wire_distance 			= 11
 small_db.draw_circuit_wires				= settings.startup["ued-settings-show-circuit"].value
 
 small_db.icon_mipmaps		= 1
