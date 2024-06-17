@@ -1,5 +1,5 @@
 # Underground Energy Distribution
-![image](docs\images\example.png)
+![image](docs/images/example.png)
 
 ### This mod is a fork of:
  - [SLP - Underground Poles](https://mods.factorio.com/mod/slp-underground-poles) by [SLywnow](https://mods.factorio.com/user/SLywnow)
