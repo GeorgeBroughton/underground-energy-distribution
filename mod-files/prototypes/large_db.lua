@@ -1,5 +1,5 @@
 local large_db = table.deepcopy(data.raw["electric-pole"]["substation"])
-local integration_patch_render_layer 	= "decorative"
+local integration_patch_render_layer = "decorative"
 
 large_db.name	= "ued-large-db"
 large_db.icon	= "__underground-energy-distribution__/graphics/sb-icon.png"

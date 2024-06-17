@@ -1,5 +1,5 @@
 local long_distance_db = table.deepcopy(data.raw["electric-pole"]["big-electric-pole"])
-local integration_patch_render_layer 	= "decorative"
+local integration_patch_render_layer = "decorative"
 
 long_distance_db.name	= "ued-long-distance-db"
 long_distance_db.icon	= "__underground-energy-distribution__/graphics/bg-icon.png"

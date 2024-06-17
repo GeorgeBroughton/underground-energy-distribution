@@ -1,5 +1,5 @@
-local small_db=table.deepcopy(data.raw["electric-pole"]["medium-electric-pole"])
-local integration_patch_render_layer 	= "decorative"
+local small_db = table.deepcopy(data.raw["electric-pole"]["medium-electric-pole"])
+local integration_patch_render_layer = "decorative"
 
 small_db.name	= "ued-small-db"
 small_db.icon	= "__underground-energy-distribution__/graphics/md-icon.png"
