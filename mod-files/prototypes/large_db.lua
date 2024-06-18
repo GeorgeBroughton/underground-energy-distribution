@@ -11,7 +11,7 @@ large_db.map_generator_bounding_box = {{-1.5,-1.5},{1.5,1.5}}
 large_db.tile_height				= 3
 large_db.tile_width					= 3
 
-large_db.minable 				        = {mining_time = 0.5, result = "ued-long-distance-db"}
+large_db.minable 				        = {mining_time = 0.5, result = "ued-large-db"}
 large_db.draw_copper_wires		        = false
 large_db.check_collision_with_entities 	= true
 large_db.supply_area_distance	        = 12.5
