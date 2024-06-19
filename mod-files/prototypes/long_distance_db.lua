@@ -63,7 +63,8 @@ long_distance_db.collision_mask 				= {"doodad-layer"}
 --long_distance_db.collision_mask 				= {"water-tile","colliding-with-tiles-only"}
 --long_distance_db.collision_box 				= {{0,0},{0,0}}
 long_distance_db.integration_patch_render_layer = integration_patch_render_layer
-long_distance_db.fast_replaceable_group 		= "big-electric-pole"
+--long_distance_db.fast_replaceable_group 		= "big-electric-pole"
+long_distance_db.next_upgrade 					= nil
 
 data:extend({{
 		type			= "item",

@@ -63,7 +63,8 @@ large_db.collision_mask					= {"doodad-layer"}
 --large_db.collision_mask 				= {"water-tile","colliding-with-tiles-only"}
 --large_db.collision_box				= {{0,0},{0,0}}
 large_db.integration_patch_render_layer = integration_patch_render_layer
-large_db.fast_replaceable_group 		= "substation-electric-pole"
+--large_db.fast_replaceable_group 		= "substation-electric-pole"
+large_db.next_upgrade = nil
 
 data:extend({{
         type			= "item",
